@@ -76,7 +76,7 @@ music_db = {
         "Ambient - Brian Eno: Ambient 1",
         "Jazz - Bill Evans: Peace Piece",
         "K-Pop - TAEYEON: 11:11",
-        "Indie - Penny: Lighter 打火机"
+        "Lofi Indie - Penny: Lighter 打火机"
     ],
     "party": [
         "EDM - Calvin Harris: Summer",
